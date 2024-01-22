@@ -1,4 +1,4 @@
-### Hey 👋, my name is Zaed!
+## Hey 👋, my name is Zaed!
 
 A fellow Software Engineer and aspiring Computer Vision researcher
 
