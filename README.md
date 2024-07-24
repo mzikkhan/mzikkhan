@@ -1,6 +1,6 @@
 ## Hey 👋, my name is Zaed!
 
-A fellow Business Analyst and aspiring AI Engineer
+A fellow Data Analyst and aspiring AI Engineer
 
 - 🔭 I’m working on Gaze2Speech (a CV-based solution for translating eye-movements to speech)
 - 🌱 I’m currently learning Business Analytics!
