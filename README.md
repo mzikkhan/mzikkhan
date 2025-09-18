@@ -1,6 +1,6 @@
 ## Hey 👋, my name is Zaed!
 
-A fellow Data Analyst and aspiring Data Scientist
+An aspiring Data Scientist
 
 - 🔭 I’m working on Gaze2Speech (a CV-based solution for translating eye-movements to speech)
 - 🌱 I’m currently pursuing a Masters of Data Science at the University of British Columbia!
